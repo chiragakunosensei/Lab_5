@@ -167,10 +167,6 @@ features drawn on the map. We are going to digitize the lakes in the
 town of Auburn and compare the historical locations of these lakes to
 the current water bodies taken from a modern GIS layer.
 
-A video of this digitizing tutorial is available at
-<https://drive.google.com/file/d/0B_rk0_Y4N6QzWFFDclRUcnE3TkU/view> and
-a brief description of the steps follow. Review the steps below and watch the video before beginning the tutorial.
-
 1.  Add the georeferenced TIFF (the result of the previous section) to
     the map document if not 
 2.  Zoom in to the town of Auburn (you can identify Auburn in the
