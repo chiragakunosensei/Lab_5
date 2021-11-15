@@ -29,15 +29,11 @@ keep in mind that we won't be using all of the data downloaded, and make
 sure to add the correct layer when directed to.
 
   - `TOWNSSURVEY_POLY.shp`: A shapefile of the 2020 town boundaries in
-    Massachusetts. It is included in the [Community Boundaries
-    (Towns)](https://docs.digital.mass.gov/dataset/massgis-data-community-boundaries-towns-survey-points)
-    
+    Massachusetts. Iit is now included on Canvas in relation to this week as a zipped file called 'town boundaries'
     http://download.massgis.digital.mass.gov/shapefiles/state/townssurvey_shp.zip
     bundle.
   - `MAJPOND_POLY.shp`: A shapefile from 2019 of major ponds in Massachusetts. It
-    is included in the [Major Ponds and Major
-    Streams](http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/majhd.html)
-    bundle.
+    is included in relation to this week in a zipped file called 'Majpond'
 
 Move all files to your workspace folder and unzip any zip files.
 
