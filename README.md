@@ -234,37 +234,9 @@ captured in satellite imagery within Google Earth.
 
 ## Deliverables
 
-**Turn in a report in the format described in the syllabus.**
+**Turn in a report in the format described on our home page**
 
 Be sure to include the following information:
-
-1.  The RMS error of your control points, after you have completed
-    georeferencing the historical map.
-2.  A map of the digitized 1889 Great Salt Lake polygon you digitized
-    overlain on the historical 1889 image of Utah.
-3.  An image of the digitized Great Salt Lake polygon overlain on the
-    modern satellite imagery of the lake in Google Earth.
-
-The **Introduction** section should state the research objective and the
-relevant criteria for selecting the neighborhoods and schools.
-
-The **Data and Methods** section should state the data sets used in the
-analysis, from where those data were acquired, and the GIS operations
-employed. Be sure to address your methods for georeferencing and
-digitizing, and to justify why you chose specific mapping options.
-
-The **Results** section should state the results (i.e. your assessment
-of the change in size of the lake over time). Include the RMS error derived
-from the image georefrencing and an evaluation of the digitizing
-quality. The map should be cited in the text here (e.g. Figure 1).
-
-The **Discussion** section should state an interpretation of the results
-(i.e. how and, briefly, why, has the size of the Great Salt Lake changed
-over this time period), limitations of the analysis, and how the
-analysis could be improved or expanded.
-
-The **Tables and Figures** section should contain the map, with a
-caption. The map should be cited in the text.
 
 ## Getting Started
 
